@@ -1,0 +1,1 @@
+nNumbers allows you to find first n prime numbers for a given n. Prime Numbers are only calculated once and then saved. They are retrieved the second time onward. Using nNumbers, you can also test a number for its primality and find all its divisors.
